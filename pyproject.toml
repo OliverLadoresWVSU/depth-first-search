@@ -4,11 +4,12 @@ version = "0.1.0"
 description = ""
 authors = ["'Oliver <'oliver.ladores@wvsu.edu.ph'>"]
 readme = "README.md"
-packages = [{include = "depth_first_search"}]
+packages = [{ include = "depth_first_search" }]
 
 [tool.poetry.dependencies]
 python = "^3.11"
 networkx = "^3.1"
+matplotlib = "^3.7.2"
 
 
 [build-system]
