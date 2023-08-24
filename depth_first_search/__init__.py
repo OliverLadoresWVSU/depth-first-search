@@ -13,9 +13,12 @@ def main():
         ("Lambunao", "Badiangan"),
         ("Janiuay", "Maasin"),
         ("Janiuay", "Cabatuan"),
+        ("Janiuay", "Mina"),
+        ("Janiuay", "Badiangan"),
         ("Badiangan", "Mina"),
         ("Badiangan", "Pototan"),
         ("Cabatuan", "Mina"),
+        ("Cabatuan", "Maasin"),
         ("Mina", "Pototan"),
     ])
 
